@@ -10,10 +10,12 @@ Welcome to my YouTube clone project! You can check out the live version [here](h
 Welcome to my YouTube clone project! Here's a screenshot of the application:
 
 ![Screenshot](https://tmpfiles.org/dl/1491645/yt1.png)
-![Screenshot](https://tmpfiles.org/dl/1491648/yt2.png)
-![Screenshot](https://tmpfiles.org/dl/1491651/yt3.png)
-![Screenshot](https://tmpfiles.org/dl/1491653/yt4.png)
-![Screenshot](https://tmpfiles.org/dl/1491654/yt5.png)
+![Screenshot](https://tmpfiles.org/dl/1491648/y2.png)
+![Screenshot](https://tmpfiles.org/dl/1491651/y3.png)
+![Screenshot](https://tmpfiles.org/dl/1491653/y4.png)
+![Screenshot](https://tmpfiles.org/dl/1491654/y5.png)
+
+https://tmpfiles.org/dl/1491654/y5.png
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
