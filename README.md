@@ -9,7 +9,7 @@ Welcome to my YouTube clone project! You can check out the live version [here](h
 
 Welcome to my YouTube clone project! Here's a screenshot of the application:
 
-![Screenshot](screenshots/Screenshot (435).png)
+![screenshots](screenshots/Screenshot (435).png)
 
 
 
