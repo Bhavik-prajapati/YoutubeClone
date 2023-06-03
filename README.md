@@ -11,6 +11,7 @@ Welcome to my YouTube clone project! Here's a screenshot of the application:
 
 ![screenshots](screenshots/Screenshot (435).png)
 
+![Screenshot]([https://example.com/images/screenshot.png](https://drive.google.com/file/d/1Q32c_hFdhCCi-Bp9slDrFvXFe_7S7k25/view?usp=sharing))
 
 
 
