@@ -10,7 +10,6 @@ Welcome to my YouTube clone project! You can check out the live version [here](h
 Welcome to my YouTube clone project! Here's a screenshot of the application:
 
 
-![Screenshot](https://drive.google.com/file/d/1Q32c_hFdhCCi-Bp9slDrFvXFe_7S7k25/view?usp=sharing)
 
 
 ![Screenshot](https://tmpfiles.org/dl/1491645/yt1.png)
